@@ -28,6 +28,7 @@ I think you should use an `<addr>` element here instead.
 # This is an h1 tag
 ## This is an h2 tag
 ### Adding an h3 tag to make things interesting
+#### And an h4
 ###### This is an h6 tag
 
 ### Github flavours
